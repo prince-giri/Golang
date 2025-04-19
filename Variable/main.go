@@ -20,7 +20,7 @@ func main() {
 	fmt.Printf("My name is: %v \nMy current age is: %v", full_name, age)
 }
 
-Variable Important Notes:
+// Variable Important Notes:
 
 // 1. Uninitialized variables are given its zero value (e.g int = 0, string = "", bool = false)
 
